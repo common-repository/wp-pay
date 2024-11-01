@@ -1,0 +1,9 @@
+/*
+请勿删除或修改此文件，否则无法更新
+Plugin Name:WP-pay
+Plugin URI: http://www.pakelab.com/
+Description: 这是一款集成支付宝即时到账接口的插件,她可以实现即时到账，自动发货，订单管理等功能。
+Version: 2.0#
+Author: 帕克实验室
+Author URI:http://www.pakelab.com/
+*/

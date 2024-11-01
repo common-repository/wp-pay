@@ -1,0 +1,11 @@
+1.把alipay文件夹放到wordpress根目录下
+
+2.把wp-pay文件夹上传到wordpress插件目录下
+
+3.把
+
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/alipay/form.php'); ?> 
+
+添加到文章模板内（single.php),一般放在<?php the_content(); ?>下面
+
+4. 如果要删除订单 请点击用户管理
